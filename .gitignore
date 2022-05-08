@@ -1,2 +1,3 @@
 taitanic/*.csv
 taitanic/**/*.csv
+**/*.csv
